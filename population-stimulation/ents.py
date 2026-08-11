@@ -34,15 +34,15 @@ for _ in range(5):
     small_ents += baby_small_ents
 
 
-print(f"There are {big_ents} big ents.")
+    print(f"There are {big_ents} big ents.")
 
-if massive_ents > 0:
-    print(f"There are {massive_ents} massive ents.\n")
+    if massive_ents > 0:
+        print(f"There are {massive_ents} massive ents.")
 
-print(f"There are {small_ents} small ents.\n")
+    print(f"There are {small_ents} small ents.\n")
 
-if tiny_ents > 0:
-    print(f"There are {tiny_ents} tiny ents.\n")
+    if tiny_ents > 0:
+        print(f"There are {tiny_ents} tiny ents.\n")
 
 
 

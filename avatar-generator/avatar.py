@@ -21,3 +21,7 @@ def mouth(size):
 
 def bow():
     print("!>o<!")
+
+
+
+
